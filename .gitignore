@@ -18,6 +18,8 @@ ExportedObj/
 *.booproj
 *.svd
 
+# Ignore unneeded iOS plugin
+libgvrunity.a
 
 # Unity3D generated meta files
 *.pidb.meta
